@@ -1,0 +1,10 @@
+setuptools<81
+pykrx
+pandas
+requests
+beautifulsoup4
+lxml
+openpyxl
+flask
+qrcode[pil]
+gunicorn

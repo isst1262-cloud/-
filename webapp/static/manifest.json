@@ -1,0 +1,13 @@
+{
+  "name": "주식 조건검색 스크리너",
+  "short_name": "주식스크리너",
+  "description": "네이버금융 기반 한국 주식 조건검색 및 손익 계산기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/static/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
